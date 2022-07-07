@@ -1,2 +1,8 @@
-package password;public class passwordclass {
+package password;
+
+public class passwordclass {
+
+    // my password is ....
 }
+
+

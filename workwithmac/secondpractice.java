@@ -6,4 +6,5 @@ public class secondpractice {
         System.out.println("this is a second practice");
 
     }
+
 }
